@@ -6,6 +6,7 @@ This application allows users to add, update and delete feedback. It uses a mock
 
 </br>
 This project goes over all of the fundamentals of React including:
+
 - Components,
 - JSX,
 - Props (proptypes, defaultprops, etc),
